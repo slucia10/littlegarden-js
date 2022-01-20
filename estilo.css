@@ -1,0 +1,13 @@
+.card {
+    margin-left: 2%;
+}
+#divProductos {
+    margin-left: 2%;
+}
+#titulo {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: #5da85d;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
